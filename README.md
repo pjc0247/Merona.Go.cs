@@ -56,6 +56,10 @@ class Player : ServerObject {
 }
 ```
 
+RPC
+----
+자동 동기화 되는 프로퍼티가 아닌 이벤트들은 RPC를 이용해 전달합니다.
+
 
 Meronarize Configs
 ----
